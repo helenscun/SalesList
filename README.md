@@ -1,9 +1,6 @@
 # SalesList
 Assignment3 for WEEK 3 GitHub Intro and JUnit Testing
 
-[![Real estate agent using a tablet](image_kJEQEg.png)](https://media.gettyimages.com/id/1927881398/photo/group-of-business-persons-talking-in-the-office.jpg?s=612x612&w=gi&k=20&c=FD42a2h2jemlir1oWk9hCL4Po-DBJUYRCR0eEr6F0Bo=)
-
-
 A simple Java Swing desktop application for recording sales. Users enter an
 item's name, cost, and quantity, add it to a running sales list, and see the
 total sales update automatically.
