@@ -84,3 +84,6 @@ the classpath, which requires no `requires` declarations at all.
 | Spicy Bowl | $16.00 | 1 |
 
 **Total Sales: $52.96**
+
+[<img width="460" height="667" alt="image" src="https://github.com/user-attachments/assets/878a3d4b-49bf-4dfa-8784-bad2e98cf1e4" />](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2spb63oGJbt52X5XJU9oGosYSdfplhCAEw9Ty1uVCD7jXGuvEBE8qhEw&s=10)
+
